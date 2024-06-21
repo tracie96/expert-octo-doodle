@@ -6,6 +6,9 @@ Frontend URL : (https://victorious-water-0e737791e.5.azurestaticapps.net/)
 
 Backend URL : (https://newbe101.azurewebsites.net/)
 
+![Application Screenshot](https://res.cloudinary.com/tracysoft/image/upload/v1719010312/Screenshot_2024-06-21_at_11.48.49_PM.png)
+
+
 ## Description
 This project is a simple Todo application consisting of a Node.js backend and a ReactJS frontend. It uses Azure DevOps for CI/CD, deploying the backend to Azure App Service and the frontend to Azure Static Web Apps.
 
@@ -18,8 +21,7 @@ This project is a simple Todo application consisting of a Node.js backend and a 
    ```sh
     git clone https://github.com/tracie96/expert-octo-doodle.git 
 
-cd todo_be for backend
-cd todo_fe for frontend
+**cd todo_be for backend**
 
 
 2. **Install Dependencies**:
@@ -35,8 +37,9 @@ cd todo_fe for frontend
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/tracie96/todoFE
-   cd todoFE
+    git clone https://github.com/tracie96/expert-octo-doodle.git 
+    
+**cd todo_fe for frontend**
 
 2. **Install Dependencies**:
    ```sh
@@ -45,8 +48,6 @@ cd todo_fe for frontend
 3. **Start Server**:
    ```sh
    yarn start
-
-![Application Screenshot](https://res.cloudinary.com/tracysoft/image/upload/v1719010312/Screenshot_2024-06-21_at_11.48.49_PM.png)
 
 
 ### I added tests
