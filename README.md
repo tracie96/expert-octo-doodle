@@ -2,9 +2,9 @@
 
 # Todo Application
 
-Frontend URL : (#https://victorious-water-0e737791e.5.azurestaticapps.net/)
+Frontend URL : (https://victorious-water-0e737791e.5.azurestaticapps.net/)
 
-Backend URL : (#https://newbe101.azurewebsites.net/)
+Backend URL : (https://newbe101.azurewebsites.net/)
 
 ## Description
 This project is a simple Todo application consisting of a Node.js backend and a ReactJS frontend. It uses Azure DevOps for CI/CD, deploying the backend to Azure App Service and the frontend to Azure Static Web Apps.
@@ -16,8 +16,11 @@ This project is a simple Todo application consisting of a Node.js backend and a 
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/tracie96/todoBE
-   cd todoBE
+    git clone https://github.com/tracie96/expert-octo-doodle.git 
+
+cd todo_be for backend
+cd todo_fe for frontend
+
 
 2. **Install Dependencies**:
    ```sh

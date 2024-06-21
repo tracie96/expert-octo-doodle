@@ -20,20 +20,20 @@ This project is a simple Todo application with a backend built using Node.js and
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/tracie96/todoBE.git 
-    cd todoBE
+    git clone https://github.com/tracie96/expert-octo-doodle.git 
+    cd expert-octo-doodle/todo_be
     ```
 
 2. Install dependencies:
 
     ```sh
-    npm install
+    yarn install
     ```
 
 3. Start the server:
 
     ```sh
-    node src/server.js or simply nodemon
+    node app.js or simply nodemon
     ```
 
-    The backend server will be running on `http://localhost:3001`.
+    The backend server will be running on `http://localhost:8080`.

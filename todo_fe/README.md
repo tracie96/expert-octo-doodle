@@ -5,11 +5,11 @@
 2. clone repository:
 
     ```sh
-    cd https://github.com/tracie96/todoFE.git
+    git clone https://github.com/tracie96/expert-octo-doodle.git 
     ```
 
     ```sh
-    cd todofe
+    cd todo_fe
     ```
 
 2. Install dependencies:
@@ -23,5 +23,3 @@
     ```sh
     yarn start
     ```
-
-    The frontend will be running on `http://localhost:3000` or `http://localhost:3000`.
