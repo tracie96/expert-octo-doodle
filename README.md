@@ -2,7 +2,7 @@
 
 # Todo Application
 
-Frontend URL : (https://victorious-water-0e737791e.5.azurestaticapps.net/)
+Frontend URL : (https://wonderful-ground-098127a1e.5.azurestaticapps.net/)
 
 Backend URL : (https://newbe101.azurewebsites.net/)
 
