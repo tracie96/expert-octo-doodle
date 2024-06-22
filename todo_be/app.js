@@ -10,7 +10,7 @@ const corsConfig = {};
 
   Object.assign(corsConfig, {
     origin: [
-      "https://victorious-water-0e737791e.5.azurestaticapps.net"
+      "https://wonderful-ground-098127a1e.5.azurestaticapps.net/"
     ],
     methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
     credentials: true,
